@@ -10,3 +10,7 @@ Engineer working across full-stack web, AI tooling, automation, and quant resear
 
 ![Tokens](https://tokscale.ai/api/badge/SeaL773/svg?metric=tokens&compact=1)
 ![Cost](https://tokscale.ai/api/badge/SeaL773/svg?metric=cost&compact=1)
+
+### Contribution Graph
+
+![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
