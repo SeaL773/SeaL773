@@ -15,8 +15,9 @@
 
 import re
 import sys
+from pathlib import Path
 
-SVG_PATH = "profile-3d-contrib/profile-night-green.svg"
+SVG_PATH = Path(__file__).resolve().parent.parent / "profile-3d-contrib" / "profile-night-green.svg"
 
 # anchor regex on the icon's <g translate(...)> wrapper because that's the
 # stable hook; lazy .*? is bounded by </g> and the immediately-following <text>
