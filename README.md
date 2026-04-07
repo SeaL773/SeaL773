@@ -4,13 +4,19 @@ Engineer working across full-stack web, AI tooling, automation, and quant resear
 
 ### AI Token Usage
 
-[![Tokscale Stats](https://tokscale.ai/api/embed/SeaL773/svg)](https://tokscale.ai/u/SeaL773)
+<p align="center">
+  <a href="https://tokscale.ai/u/SeaL773">
+    <img src="https://tokscale.ai/api/embed/SeaL773/svg" alt="Tokscale Stats" width="680">
+  </a>
+</p>
 
-#### Quick stats
-
-![Tokens](https://tokscale.ai/api/badge/SeaL773/svg?metric=tokens&compact=1)
-![Cost](https://tokscale.ai/api/badge/SeaL773/svg?metric=cost&compact=1)
+<p align="center">
+  <img src="https://tokscale.ai/api/badge/SeaL773/svg?metric=tokens&compact=1" alt="Tokens">
+  <img src="https://tokscale.ai/api/badge/SeaL773/svg?metric=cost&compact=1" alt="Cost">
+</p>
 
 ### Contribution Graph
 
-![3D contribution graph](./profile-3d-contrib/profile-night-green.svg)
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="680">
+</p>
