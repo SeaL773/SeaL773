@@ -18,6 +18,8 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      - name: Customize night-green theme
+        run: python3 scripts/customize-night-green.py
       - name: Commit & Push
         run: |
           git config user.name github-actions
