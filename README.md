@@ -6,7 +6,7 @@ Engineer working across full-stack web, AI tooling, automation, and quant resear
 
 <p align="center">
   <a href="https://tokscale.ai/u/SeaL773">
-    <img src="https://tokscale.ai/api/embed/SeaL773/svg" alt="Tokscale Stats" width="680">
+    <img src="https://tokscale.ai/api/embed/SeaL773/svg?view=3d" alt="Tokscale 3D Stats" width="680">
   </a>
 </p>
 
